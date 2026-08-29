@@ -1,17 +1,17 @@
-<h1 align="center">Adrià Tormo</h1>
+<h1 align="left">Adrià Tormo</h1>
 
-<p align="center">
+<p align="left">
   🎨 Product designer<br/>
   🛠️ Builder<br/>
   💡 Tech enthusiast
 </p>
 
-<p align="center">
+<p align="left">
   I design and ship products end to end, from first idea through UI/UX into development.<br/>
   AI helps me produce my ideas.
 </p>
 
-<p align="center">
+<p align="left">
   📍 València<br/>
   🌐 <a href="https://tormo.at">tormo.at</a><br/>
   ✉️ <a href="mailto:adria@tormo.at">adria@tormo.at</a>
