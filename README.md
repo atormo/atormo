@@ -1,41 +1,60 @@
 <h1 align="center">Adrià Tormo</h1>
 
 <p align="center">
-  <strong>Product designer · Builder · Tech enthusiast</strong>
+  🎨 Product designer<br/>
+  🛠️ Builder<br/>
+  💡 Tech enthusiast
 </p>
 
 <p align="center">
-  I design and ship products end to end, from first idea through UI/UX into development and distribution.<br/>
-  AI helps me produce my ideas. Taste decides what ships.
+  I design and ship products end to end, from first idea through UI/UX into development.<br/>
+  AI helps me produce my ideas.
 </p>
 
 <p align="center">
-  València · <a href="https://tormo.at">tormo.at</a> · <a href="mailto:adria@tormo.at">adria@tormo.at</a>
-</p>
-
-<p align="center">
-  <a href="https://tormo.at">Website</a>
-  ·
-  <a href="https://linkedin.com/in/adriatormo">LinkedIn</a>
-  ·
-  <a href="https://x.com/tormius">X</a>
-  ·
-  <a href="https://instagram.com/tormius">Instagram</a>
-  ·
-  <a href="https://tormius.com">Art</a>
+  📍 València<br/>
+  🌐 <a href="https://tormo.at">tormo.at</a><br/>
+  ✉️ <a href="mailto:adria@tormo.at">adria@tormo.at</a>
 </p>
 
 ---
 
-**Selected work**
+### ✨ Work
 
-- [Buttons](https://buttons.tormo.at) — a button builder. Copy CSS or Tailwind, export SVG and PNG.
-- [Torsketch](https://github.com/atormo/torsketch) — a mechanical two-dial drawing toy for the browser.
-- [Dither Wallpapers](https://github.com/atormo/dither-wallpapers) — 12 abstract 5K dithered wallpapers.
-- [Liftwerk](https://tormo.at/projects/liftwerk) — gym tracker, now on the App Store.
-- [Absurd Farm](https://absurd.farm) — experimental web projects.
+<table>
+  <tr>
+    <td>🎛️</td>
+    <td><a href="https://buttons.tormo.at"><strong>Buttons</strong></a><br/>Button builder. Copy CSS or Tailwind, export SVG and PNG.</td>
+  </tr>
+  <tr>
+    <td>✏️</td>
+    <td><a href="https://github.com/atormo/torsketch"><strong>Torsketch</strong></a><br/>A mechanical two-dial drawing toy for the browser.</td>
+  </tr>
+  <tr>
+    <td>🖼️</td>
+    <td><a href="https://github.com/atormo/dither-wallpapers"><strong>Dither Wallpapers</strong></a><br/>12 abstract 5K dithered wallpapers.</td>
+  </tr>
+  <tr>
+    <td>🏋️</td>
+    <td><a href="https://tormo.at/projects/liftwerk"><strong>Liftwerk</strong></a><br/>Gym tracker, now on the App Store.</td>
+  </tr>
+  <tr>
+    <td>🌱</td>
+    <td><a href="https://absurd.farm"><strong>Absurd Farm</strong></a><br/>Experimental web projects.</td>
+  </tr>
+  <tr>
+    <td>🎭</td>
+    <td><a href="https://tormius.com"><strong>Tormius</strong></a><br/>Abstract and oddly absurd art.</td>
+  </tr>
+</table>
 
-I also make abstract and oddly absurd art as [Tormius](https://tormius.com).
+### 🔗 Links
+
+- 💼 [LinkedIn](https://linkedin.com/in/adriatormo)
+- 🐦 [X](https://x.com/tormius)
+- 📸 [Instagram](https://instagram.com/tormius)
+- 🎨 [Art](https://tormius.com)
+- 🌐 [Website](https://tormo.at)
 
 ---
 
