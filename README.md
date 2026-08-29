@@ -1,12 +1,14 @@
 <h1 align="center">Adrià Tormo</h1>
 
 <p align="center">
-  🎨 Product designer
+  🎨 Product designer<br/>
+  🛠️ Builder<br/>
+  💡 Tech enthusiast
 </p>
 
 <p align="center">
-  I design products and I ship them.<br/>
-  I get excited about new tech, and I use AI to produce my ideas and get them into the world.
+  I design and ship products end to end, from first idea through UI/UX into development.<br/>
+  AI helps me produce my ideas.
 </p>
 
 <p align="center">
