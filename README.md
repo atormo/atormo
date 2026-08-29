@@ -7,8 +7,7 @@
 </p>
 
 <p align="left">
-  I design and ship products end to end, from first idea through UI/UX into development.<br/>
-  AI helps me produce my ideas.
+ Graphic designer by education. Product designer by experience and a new technology enthusiast by nature.
 </p>
 
 <p align="left">
