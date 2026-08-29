@@ -7,7 +7,11 @@
 </p>
 
 <p align="left">
- Graphic designer by education. Product designer by experience and a new technology enthusiast by nature.
+Graphic designer by education. Product designer by experience and a new technology enthusiast by nature.
+
+I'm a Product Designer with 5+ years of remote experience designing end-to-end B2B and B2C products, from initial wireframes and UX research to UI design, development handoff, and launch. AI is a key partner in my workflow, allowing me to iterate quickly in the early stages and bring concepts to life efficiently.
+
+My multidisciplinary background spanning branding, art, 3D, video, and web technologies gives me a unique technical edge when collaborating with cross-functional teams. I am a builder at heart. Art, design, and technology extend far beyond a profession; they are an intrinsic part of who I am, keeping me in a constant state of learning, iterating, and creating.
 </p>
 
 <p align="left">
