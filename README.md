@@ -42,6 +42,10 @@ My multidisciplinary background spanning branding, art, 3D, video, and web techn
     <td><a href="https://buttons.tormo.at"><strong>Buttons</strong></a><br/>Button builder. Copy CSS or Tailwind, export SVG and PNG.</td>
   </tr>
   <tr>
+    <td>🔳</td>
+    <td><a href="https://eridit.tormo.at"><strong>Eridit</strong></a><br/>A fast image-dithering workbench.</td>
+  </tr>
+  <tr>
     <td>✏️</td>
     <td><a href="https://github.com/atormo/torsketch"><strong>Torsketch</strong></a><br/>A mechanical two-dial drawing toy for the browser.</td>
   </tr>
