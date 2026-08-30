@@ -68,7 +68,7 @@ My multidisciplinary background spanning branding, art, 3D, video, and web techn
 
 ---
 
-<p align="center">
+<p align="left">
   You miss 100% of the shots you don't take. — Wayne Gretzky<br/>
   <sub>— Michael Scott</sub>
 </p>
